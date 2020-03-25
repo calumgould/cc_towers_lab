@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a10c67b3-b9f8-4ea4-8baf-e4009b5f42c4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Zcy12IXiQq74F4zGUBJtrmOBgY" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="RunManager" selected="JUnit.HotelTest">
+    <configuration name="All in CodeClanTowers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodeClanTowers" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookingTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodeClanTowers" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BookingTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HotelTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodeClanTowers" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="HotelTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.HotelTest" />
+        <item itemvalue="JUnit.BookingTest" />
+        <item itemvalue="JUnit.All in CodeClanTowers" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a10c67b3-b9f8-4ea4-8baf-e4009b5f42c4" name="Default Changelist" comment="" />
+      <created>1585152457869</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585152457869</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1283" height="203" key="GridCell.Tab.0.bottom" timestamp="1585175327234">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state width="1283" height="203" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1585175327234" />
+    <state width="1283" height="203" key="GridCell.Tab.0.center" timestamp="1585175327233">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state width="1283" height="203" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1585175327233" />
+    <state width="1283" height="203" key="GridCell.Tab.0.left" timestamp="1585175327232">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state width="1283" height="203" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1585175327232" />
+    <state width="1283" height="203" key="GridCell.Tab.0.right" timestamp="1585175327233">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state width="1283" height="203" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1585175327233" />
+    <state x="437" y="261" key="com.intellij.ide.util.TipDialog" timestamp="1585152465444">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state x="437" y="261" key="com.intellij.ide.util.TipDialog/0.23.1440.804@0.23.1440.804" timestamp="1585152465444" />
+    <state x="344" y="190" width="667" height="476" key="find.popup" timestamp="1585161787687">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state x="344" y="190" width="667" height="476" key="find.popup/0.23.1440.804@0.23.1440.804" timestamp="1585161787687" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1585159002972">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.23.1440.804@0.23.1440.804" timestamp="1585159002972" />
+  </component>
+</project>
